@@ -5,6 +5,11 @@ header:
     image: "/assets/images/header.jpg"
 ---
 
-I'm able to perform **exploratory analysis** and develop **machine learning systems** that adapt to changes on the task's environment, also called *concept drift*.
+I can perform *exploratory analysis* on different kinds of data, present insights through *data visualization* and develop *machine learning systems* to perform a task and adapt to changes on the environment.
 
-Big projects with good teams are a treat. 
+Participated on many projects with different types of data such as
+  - Financial Time Series
+  - Telemetry
+  - Speech
+  - Geophysical Images
+  - Common Text
