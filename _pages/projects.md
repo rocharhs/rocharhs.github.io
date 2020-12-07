@@ -7,4 +7,6 @@ header:
     image: "/assets/images/header.jpg"
 ---
 
-add author profile
+Include base path
+
+{% include base_path %}
