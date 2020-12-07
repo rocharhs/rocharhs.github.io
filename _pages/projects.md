@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Project Posts by Tags"
+title: "Project Posts by Date"
 permalink: /projects/
 author_profile: true
 header:
