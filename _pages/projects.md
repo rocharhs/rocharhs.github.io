@@ -12,7 +12,7 @@ header:
 
 {% for tag in group_names %}
     {% assign posts = group_items[forloop.index0] %}
-    ### {{ tag }}
+    <h2> {{ tag }} </h2>
 
     {% for post in posts %}
         {% include archive-single.html %}
