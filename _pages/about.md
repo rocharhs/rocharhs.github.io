@@ -5,11 +5,14 @@ header:
     image: "/assets/images/header.jpg"
 ---
 
-I can perform *exploratory analysis*, present insights through *data visualization* and develop *machine learning systems* to perform a task and adapt to changes on the environment.
+Participated on many projects of *data analysis*, *visualization* and *machine learning models* deployed on the Cloud.
 
-Participated on many projects with different types of data such as
-  - Financial Time Series
-  - Telemetry
-  - Speech
-  - Geophysical Images
-  - Common Text
+Worked with diverse types of signals, such as
+   - Text
+   - Image
+   - Audio
+   - Georeferenced pulses
+   - Financial
+
+
+
